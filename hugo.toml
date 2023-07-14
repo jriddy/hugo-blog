@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://jriddy.github.io/hugo-blog/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Blog -- Insert Name here'
 theme = 'PaperMod'
