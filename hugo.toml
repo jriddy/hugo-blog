@@ -1,4 +1,16 @@
-baseURL = 'http://jriddy.github.io/hugo-blog/'
+baseURL = 'http://www.jriddy.com/'
 languageCode = 'en-us'
-title = 'Blog -- Insert Name here'
+title = 'Josh Reed'
 theme = 'PaperMod'
+
+[params.profileMode]
+enabled = true
+subtitle = "Helping teams ship better software faster"
+
+[[params.socialIcons]]
+name = "GitHub"
+url = "https://github.com/jriddy"
+
+[[params.socialIcons]]
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/josh-reed-3469383a/"
