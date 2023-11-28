@@ -3,19 +3,36 @@ title: "Data Driven Perils"
 date: 2023-09-29T07:25:10-04:00
 draft: true
 
-user-outline:
-  - Introduction:
-    - Seeingly ubiquitous at tech companies
-    - Is it a case of "Google does it"?
-  - Hard to measure right data:
-    - Unit problem
-    - What is easy to measure is not necessarily what is useful to know
-  - People and systems react to being measured
-  - Post-hoc narratives dominate anyways
-  - Conclusion - What works?:
-    -
+series-outline:
+  - Many companies aspire to be data-driven but actually doing that well is extremely hard and there are tons of pitfalls
+  - Measuring the right data is hard:
+    - What is easy to measure is often not the most useful thing
+    - Most measurable quantities are proxies for things we care about, and the degree to which that proxy corresponds to our goals is itself hard to measure
+    - It's very easy to collect bad data and not know it
+  - People react to being measured:
+    - Sometimes just means pursuing less-than optimal solutions, because we're aiming at a proxy metrics rather than the real thing
+    - Other times we'll just flat-out game the system
+    - Most of the time, we can adjust what we measure or how we measure during the period, which can corrupt the data or influence results as we like
+  - Discussions around data will be dominated by narratives anyways:
+    - Narratives are what drives decision making in organizations; data points are the details that fill out that world
+    - We're typically able to cherry-pick quite liberally to tell the stories we want to
+    - Post-hoc analysis and interpretation can be used to paint drastically different pictures of events
+  - Metrics are okay, but you need to understand their weakness to use them effectively. They should be understood as a tool to aid understanding and develop narratives, not as a scientific window into the inner workings of your organization or systems.
 
 ---
+
+Hi, I'm Josh.  I'm a software engineer, and I dread quarterly planning.  I rue the estimation
+process.  I deplore having to balance customer needs, business priorities, concerns about technical
+debt, and team wishlists.  But most of all, I loathe setting _metrics_ by which my work will be
+measured.
+
+I don't think any of these things are bad.  Obviously we need to plan and planning involves picking
+some things we like, some things we don't, and saying no to a lot of other things.  Estimation, for
+all its problems, is necessary to have some basic idea of what we can accomplish.  I think these
+things can be improved in software organizations.  But metrics?  Metrics suck.  They don't have to,
+but they way they tend to be measured and used, they usually do.  I hope in this essay and series, I can explain _why_ they suck and in what specific _ways_ they suck and what we can do to make it better.
+
+Most tech companies aspire to be _data-driven_, and this almost always defaults to meaning numerical metrics.
 
 Tech companies aspire to be _data-driven_.  It's almost a foregone conclusion at this point.  This
 is the default Is it a cliché yet that all tech companies seek to be data-driven?  If not, it
