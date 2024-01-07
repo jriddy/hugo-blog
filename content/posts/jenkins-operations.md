@@ -15,7 +15,9 @@ you shouldn't use it.  You should choose something else to run your CI. To some 
 seem so painfully obvious as to not even merit mentioning, while to others of you this may seem
 like a rather extreme hot-take.  This essay is aimed at the latter crowd.  Because Jenkins has been
 used so universally for so long by so many people, I think its place in the status quo has allowed
-its shortcomings to go unnoticed, or at least underreported.  But these shortcomings are massive, and teams that have moved to better technologies will have significant competitive advantages compared to those stuck using Jenkins.
+its shortcomings to go unnoticed, or at least underreported.  But these shortcomings are massive,
+and teams that have moved to better technologies will have significant competitive advantages
+compared to those stuck using Jenkins.
 
 You could be forgiven for missing the changes that have happened in the CI space in the last 10
 years or so.  For a long time, Jenkins really was the only worthwhile game in town.  Sure,
@@ -25,7 +27,12 @@ org, that meant running Jenkins.  Those watching the open source space around CI
 few new tools rise like [GoCI] or [Concourse] or [Drone], but nothing really seemed to challenge
 Jenkins' place at the top of the pack.
 
-Sadly it's been _outside_ the open source ecosystem where the most significant innovations have taken place.
+And this is a shame.  For the last 10 years has been playing a game of catch-up to innovations that
+have happened in other CI systems, mostly closed-source ones.  And it still pales in comparison to
+its better competition.  That begs the question:  if Jenkins is so inferior, why do so many teams
+treat it as the go-to for CI?  It's a simple matter of familiarity, as far as I can tell.  Since most of the better innovation is happening on paid platforms, developers that haven't used these platforms just _don't know what they're missing out on_.
+
+## Good enough
 
 ## Modern development and release
 
@@ -51,7 +58,18 @@ for many teams mostly solved the enormous pain point that was feature integratio
 _build cop_ sucked, but it was better than being a release engineer at a time when that meant
 resolving incompatible changes from feature developers.
 
-This was
+Starting somewhere in the 2010s, the DevOps movement started pushing continuous integration and
+delivery practices more mainstream.  Groups like [DORA] were able to show more concrete business
+value for being able to ship often, and tools like [Travis CI] brought speculative merge CI to the
+mainstream, as it became the default way PRs worked in open source development for many projects.
+The expectation of being able to run a "pipeline" of steps defined in-repo on the branch one was
+aiming to merge was a real game changer for maintainers, who could reject problematic code before
+it landed in their primary branches, and with the in-repo config feature this extended to CI code
+itself.  These features, if used correctly, can really minimize the amount of build cop and
+integration work that needs to be done to keep a CI-enabled project healthy, which can dramatically
+improve the throughput.
+
+At the time, Travis CI was kind of limited as was only free for open souce use, so as cool as these features were, they were not available to many organizations, who didn't want to pay for a service like Travis for a wide variety of reasons.  However, Jenkins caught up.
 
 ## Operating Jenkins
 
