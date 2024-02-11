@@ -129,7 +129,29 @@ operational requirements for a mission-critical system.
 # The myth of flexibility
 
 Probably the most common counter-argument I get to my "Jenkins sucks" skreeds is that, while
-Jenkins may indeed be old, clunky, and difficult, at least it's flexible.  And you have to pay some cost for this flexibility.
+Jenkins may indeed be old, clunky, and difficult, at least it's flexible.  This is often presented
+as an point up on other systems that provide a declarative YAML input format for your CI
+definitions.  Rather than limiting you to what a CI system creator thinks you should do, Jenkins
+executes a build pipeline script in a sandbox for you.  But Jenkins' design choices here don't
+actually result in much more flexibility than you might have in competing systems, which have
+by-and-large converged on YAML as a default configuration language.
+
+YAML itself has a thousand problems that I won't go into here, but it does the job well enough that
+a huge majority of systems for managing builds, CI, infrastructure, use it extensively.  Notably,
+its flexible support for arbitrary string content makes embedding scripts into it pretty easy, but
+its obvious structure and declarative nature means you can do cool things like scan it before
+executing it, or even generate it from other code if you like.   In theory, using a language like
+Groovy lets you do that generation on the fly, but in practice but security, governance, and ease-of-use concerns
+have led to Jenkins pushing a declarative DSL syntax.
+
+What this boils down to is that you're strongly encouraged to use an underspecified and
+under-documented DSL in an awkward programming language to express fewer concepts than you can in a
+competing config format.  Of course, you can always break out of this with script blocks or a
+shared library, but this can affect performance in dramatic ways by putting computational load on
+your coordinator instead of your agents, a practice that the official docs expressly recommend
+avoiding.  So much of the advantage of using a programming language is lost.
+
+And
 
 After all, you can always just write some Groovy or even write a plugin to do what you want.
 
