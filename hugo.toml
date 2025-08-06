@@ -3,9 +3,12 @@ languageCode = 'en-us'
 title = 'Josh Reed'
 theme = 'PaperMod'
 
-[params.profileMode]
-enabled = true
-subtitle = "Helping teams ship better software faster"
+# [params.profileMode]
+# enabled = true
+# subtitle = "Helping teams ship better software faster"
+
+[params]
+dateFormat = "January 02, 2006"
 
 [[params.socialIcons]]
 name = "GitHub"
@@ -14,3 +17,6 @@ url = "https://github.com/jriddy"
 [[params.socialIcons]]
 name = "LinkedIn"
 url = "https://www.linkedin.com/in/josh-reed-3469383a/"
+
+[[module.imports]]
+path = "github.com/KKKZOZ/hugo-admonitions"
