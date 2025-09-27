@@ -43,7 +43,7 @@ This work pattern has made me a better programmer in general.  Maybe that's beca
 
 ## Cracks in the Mortar
 
-For all my effusive praise the shell-first paradigm, I actually think the Bourne shell and its descendants kinda suck.  I mean, they get the core paradigm right—basic string interpolation, output capture, and pipelines are insanely powerful tools—but they are also old and crufty, invented in a different era of computing, and they have failed to evolve to keep up with the time.  I called shell a "domain-specific language for calling other programs", and while that's true, if you take a step back, you can see that it leaves a lot to be desired in that role.
+For all my effusive praise of the shell-first paradigm, I actually think the Bourne shell and its descendants kinda suck.  I mean, they get the core paradigm right—basic string interpolation, output capture, and pipelines are insanely powerful tools—but they are also old and crufty, invented in a different era of computing, and they have failed to evolve to keep up with the time.  I called shell a "domain-specific language for calling other programs", and while that's true, if you take a step back, you can see that it leaves a lot to be desired in that role.
 
 A DSL for calling programs should be able to gracefully handle _the results_ of calling programs.  I mean the successful results, _and the failures_.  This is the most glaring problem with shell code.  It should be able to handle errors in a sensible way, but 50+ years into using it and the best we've got is `set -e`, which still kinda sucks.
 
