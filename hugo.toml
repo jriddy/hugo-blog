@@ -1,6 +1,6 @@
 baseURL = 'http://www.jriddy.com/'
 languageCode = 'en-us'
-title = "Welcome 2 My Webzone"
+title = "Josh Reed"
 theme = 'PaperMod'
 
 # [params.profileMode]
@@ -11,7 +11,7 @@ theme = 'PaperMod'
 dateFormat = "January 02, 2006"
 
 [params.homeInfoParams]
-Title = "Josh Reed"
+Title = "Welcome to my Webzone"
 Content = "My obligatory dally into the current and relevant trend of _weblogging_"
 
 [[params.socialIcons]]
