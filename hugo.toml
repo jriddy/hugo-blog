@@ -9,6 +9,9 @@ theme = 'PaperMod'
 
 [params]
 dateFormat = "January 02, 2006"
+ShowPostNavLinks = true
+ShowShareButtons = true
+ShowReadingTime = true
 
 [params.homeInfoParams]
 Title = "Welcome to my Webzone"
