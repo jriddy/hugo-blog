@@ -11,9 +11,17 @@ To say anti-AI sentiment is high would be an understatement.  Folks are exhauste
 
 Yet instead of directing our frustration that those people, it seems easier to direct the hate at the _bots_.  Robophobia is definitely funnier, in post-ironic sort of way.  It's edgy in that it co-opts shocking and hateful tactics from _actual racism_ but directs it at an acceptable target.  It's ironic in that you can say that you're only using the hate language in gest, but post-ironic in that you really do hate the bots.  But it's still misdirected.
 
-The bots are not alive.  The AI is not taking our jobs.  This current generation of technology will not do what its most ardent promoters claim it will do, and we have little to worry from the technology itself.  What we should fear is the executive-investor class that has so gleefully embraced the notion of _ending human labor as we know it_.
+The bots are not alive.  The AI is not taking our jobs.  This current generation of technology will not do what its most ardent promoters claim it will do, and we have little to worry from the technology itself.  What we should fear is the executive-investor class that has so gleefully embraced the notion of _ending human labor as we know it_ in pursuit of the eternal _growth_ that will please but never satiate investors.
 
-##
+## Progress is not Inevitable
+
+Everyone alive today has only ever known technology as something that progresses steadily.  We take this as a given
+
+One could be forgiven for being mad at clankers.  We have long assumed that computing would eventually lead to ultra-intelligent machines, whose rise would either usher in a golden age of trans-human ascension or doom us to an apocalyptic fate.  We are primed to accept that narrative
+
+Technical
+
+## The Assumption of Never-ending Growth
 
 If you're not a software developer, it might surprise you to know that very few of us are currently worried about being automated out of a job.  That's not to say there's not a lot of _anxiety_ in the industry: layoffs are becoming more common, job pressures are increasing, conditions are getting worse, and rewards are harder to come by, all while the hiring process—once the career-growth fast track for developers—has become a sort of cold war between employers and the employees they ostensibly want to hire.  That's all very disconcerting, but it's not an existential threat to the very nature of our role.
 
@@ -25,15 +33,15 @@ The glaring exception to this is junior developers, who have traditionally spend
 
 But that's hard to prove conclusively, and "AI is taking junior devs' jobs!" is a compelling narrative when we can see AI adoption and junior dev unemployment increasing at the same time.  Cue the line: _correlation is not causation_.  It's very easy to argue that the software industry as a whole overhired in the early years of this decade, and the slow hiring has to do with broader macroeconomic trends like the end of ZIRP-era spendthriftiness and a slowing economy held out of recession almost entirely by a tech hype bubble.  Hiring juniors is about investing in the future, and most higher-ups are going to be more reluctant to do that when the only certainty you have about tomorrow is that your executive and investor bosses are going to be demanding that you squeeze more blood from stone.
 
-It's that squeeze, really, that is driving all of this.  Executives squeeze because they themselves are _squozen_.  They need to show results, and GenAI is just a well-timed trend that provides a convincing cover story for cost-cutting.  In the past (and in the present too!), it has been offshoring jobs, importing cheaper labor, or just plain, old-fashioned high-pressure management.  Let's lay off half the team and expect everyone to do twice as much.  Don't like it?  We'll find a fresh-off-the-boat Indian making half your salary to do your job.  This is definitely still happening, but GenAI has the allure of being perceived part of an inevitable future, and you can be seen as innovative for deploying AI-first strategies.
+It's that squeeze, really, that is driving all of this.  Executives squeeze because they themselves are _squozen_.  They need to show results, and GenAI is just a well-timed trend that provides a convincing cover story for cost-cutting.  In the past (and in the present too!), it has been offshoring jobs, importing cheaper labor, or just plain, old-fashioned high-pressure management.  Let's lay off half the team and expect everyone to do twice as much.  Don't like it?  We'll find a fresh-off-the-boat visa hire making half your salary and willing to work twice as long.  This is definitely still happening, but GenAI has the allure of being perceived part of an inevitable future, and you can be seen as innovative for deploying AI-first strategies.
 
-There are plenty of fields that are more directly affected by these trends.  I talk about software because that's what I know, but it's not even the hardest-hit segment.  Entry-level work of all kinds is getting hard to find.  "Soft" tech and tech-adjacent jobs are under serious pressure.  I know design teams that have been reduced by 75%, and whose higher-ups expect that Figma's AI features can make up for the difference.  Not surprisingly, what really happens is that the few remaining folks end up generating derivative and hurried slop in effort to keep their jobs.  And after a year or so of grinding it out under this regime, burnout is rampant the the few remaining members are beginning to quit.
+There are plenty of fields that are more directly affected by these trends.  I talk about software because that's what I know, but it's not even the hardest-hit segment.  Entry-level work of all kinds is getting hard to find.  "Soft" tech and tech-adjacent jobs are under serious pressure.  I know design teams that have been reduced by 75%, and whose higher-ups expect that Figma's AI features can make up for the difference.  Not surprisingly, what really happens is that the few remaining folks end up generating derivative and hurried slop in effort to keep their jobs.  And after a year or so of grinding it out under this regime, burnout is rampant and the few remaining members are beginning to quit.
 
 The obvious problem with these plans is that the work suffers.  Greatly.  Some time ago, ~~usurious predator~~ buy-now-pay-later provider Klarna fired all all its customer service staff only to [reverse course 2 years later](https://www.independent.co.uk/news/business/klarna-ceo-sebastian-siemiatkowski-ai-job-cuts-hiring-b2755580.html), citing reduced quality of service, after their stock dipped precipitously.   Of course, to avoid the unpleasantness of having to pay folks a living wage for their labor, they are experimenting with an Uber-style gig work model.
 
-## Legibility, Reduction, and Narrative
+## Reductive Views of Labor
 
-Executives operate in a world of incomplete information.  This is necessary given the scope of what they oversee.  There is simply too much to know to be presented with the whole of it.  Thus  nearly every bit of information they receive is filtered through some lens before it ever gets to them.  Better leaders do a decent job staying aware of this distortion, but this point-of-view, operating always in a land of summaries, symbols, and simulation, has its effects on even the strongest minds.  The clipped, synoptic view of the facts of an organization inevitably tend towards a reductive view of the activity within it, following lines charted by the courses of two great information highways: legibility and narrative.
+Executives operate in a world of incomplete information.  This is necessary given the scope of what they oversee.  There is simply too much to know to be presented with the whole of it.  Thus  nearly every bit of information they receive is filtered through some lens before it ever gets to them.  Better leaders do a decent job staying aware of this distortion, but this point-of-view, operating always in a land of summaries, symbols, and simulation, has its effects on even the strongest minds.  A bird's eye view of an organization inevitably tends towards a reductive understanding of the activity within it, and with enough distance, all humans become resources.
 
 To illustrate, I'll jump back to the customer support example from before.  One could be forgiven for assuming it's obvious that getting rid of your customer support staff would cause problems.  That would make sense; your main experience of support is almost certainly that of a _customer receiving support_.  You know the pain of navigating support websites, searching forums, or traversing phone trees in the hopes of finding an answer.  You also know the relief you feel when you're finally able to talk to an actual human being to solve your problems.  It is not helpful to have Randolph or Amelia or Clyde the friendly chatbot as another step between you and actual help, much less having these tired skins around ChatGPT completely _replace_ the humans in the loop.
 
@@ -45,25 +53,41 @@ That doesn't mean folks don't try.  With enough data you can try to paint a pict
 
 This all begs the question: if we know customer support costs money but can't directly attribute revenue to it, why does it even exist?  Because we _know_ it's important.  There are existing business narratives that tell us so.  A _narrative_ can bridge the gap between the end of legibility and a business decision.  In this case, there is a clear archetypical business story: "I had a problem; I did not get any help; I took my business elsewhere."  We all accept this story as a thing-that-happens, so it's not hard to justify the existence of some customer support function, although that function's exact realization will be subject to a much wider diversity of narratives about how often this happens and what is required to prevent it.
 
-But that leaves us "customer support is necessary" as the jumping off point from consensus narrative into a nebulous illegible and unstoried zone.  How much customer support is necessary?  What quality does it need to be?  How much friction should there be to accessing it?  It's these unclear areas where trendy narratives like "AI can replace some jobs" come in, and team up with a "we need to reduce costs" narrative.  Remember, if you're an executive, a support team can be reduced mostly to a line-item on a costs report whose illegible work you begrudgingly tolerate in deference to a handful of narratives about customer retention.  It should be easy to see how the leap is made.  Reduce cost; show innovation; get that stock price bump.  It's almost too tempting to _not_ do.
-
-I mean, I guess we need to consider that it's people's livelihoods we're disrupting to get this right?  That takes a bit of the shine off the manuever.  Even if the ravenous world of investing tends to reward layoffs,
-
-The same calculus is happening in board rooms around the world right now.  We now have e  And not just about customer support teams.
-
-Almost every job that is legitimately being "replaced by AI" right now has a tenuous connection between the quality of work performed and observable business metrics that would justify the need for that quality.
-
-## Who knows how knowledge work works?
-
-
-
-Precious few people possess a solid understanding of how knowledge work.  Including or even especially its practitioners.
-
-It's true that folks hide deep inefficiencies behind this assumption.
 ...
 
-This only makes sense if you take a really dim view of this work.  If you're willing to reduce knowledge work of all kinds to a simple machine with labor-hours as input and some checkbox list of features as output, then
+## Blame
 
+It's easy to blame executives, investors, rich people, and capitalism more broadly for all of this.  But it far
+
+## Cynical layoffs section
+
+But that leaves us "customer support is necessary" as the jumping off point from consensus narrative into a nebulous illegible and unstoried zone.  How much customer support is necessary?  What quality does it need to be?  How much friction should there be to accessing it?  It's these unclear areas where trendy narratives like "AI can replace some jobs" come in, and team up with a "we need to reduce costs" narrative.  Remember, if you're an executive, a support team can be reduced mostly to a line-item on a costs report whose illegible work you begrudgingly tolerate in deference to a handful of precepts about customer retention.  It should be easy to see how the leap is made.  Reduce cost; show innovation; get that stock price bump.  It's almost too tempting to _not_ do.
+
+But we need to be really sure about the storytelling around any reduction-in-force.  As ravenous and impersonal as investors are, they don't actually tend to reward haphazard layoffs. Cross-functional layoffs, in particular, send signals that business is slowing or mistakes were made.  You need to make sure the reasoning around your layoff is something the street will accept.  The relationship between labor and outcomes is even murkier and less legible for investors than it is for executives, so it's even more subject to narrative trends.  This helps explain why these things can seem almost like _fads_ among companies.  It's a lot easier for the street to swallow narratives about macroeconomic changes if they are being deployed by many businesses across the macroeconomy.
+
+Better still, we can bundle this appeal to macroeconomic pressures with a nod towards technological progress.  This is clearly the play with AI-took-my-job layoffs, but it is not new.  Offshoring manufacturing jobs does not happen without the major advances in transport and logistics that took place in the latter half of the 20th century, such as the [widespread adoption of intermodal shipping containers](https://en.wikipedia.org/wiki/The_Box_(Levinson_book)).  Likewise, the very notion of hiring teams in other locations to optimize labor costs was help along by significant developments in telecommunications.  Customer support has been subject to this for decades, with companies famously outsourcing to regions with low wages but high numbers of English speakers like India or the Philippines.  In so many of these cases, the quality of output has suffered greatly as a result of these manipulations.  But if the quality-to-output relationship is illegible, why would you care?
+
+Almost every job that is legitimately being "replaced by AI" right now has a tenuous connection between the quality of work performed and observable business metrics that would justify the need for that quality.  It is the kind of job that gets reduced to a checkbox item in the minds of those that call the shots, a forgettable side character in their grand narratives.  Most were [already being squeezed before the Gen AI wave started](https://www.bloodinthemachine.com/p/ai-killed-my-job-translators?ref=jriddy.com).  AI is not taking jobs; it is fueling narratives that allow management to degrade, diminish, and delete jobs that were already precariously positioned within the organization.
+
+##
+
+At this point, it's really tempting to blame executives.  They are the storytellers that benefit most from this right?
+
+Maybe I've painted too cozy a picture of how easy it is for your average executive to execute cynical manuevers to influence stock prices.  For one, #NotAllExecutives are the kind of cold, calculating bastards that it is so easy to make that out to be, at least not completely.  All but the most sociopathic retain genuine human concerns and
+
+## Details matter
+
+Do we need this section?
+
+## Summary
+
+1. Everyone assumes technological progress is inevitable, and Silicon Valley is its vanguard
+2. Most of us take a reductive view of labor, failing to understand the details that are important.
+3. The economy is constructed around the notion that shareholder value is the sole measure of an organization's worth, and it must always grow
+
+To an executive, AI must seem like a godsend.  It is heralded as the future of everything by the entirety of the tech industry, performs an extremely convincing simulacrum of novel tasks, and promises to cut costs and fuel growth at time when costs are growing and revenues are shrinking for many companies.
+
+But these are perverse values.
 
 ## 4 - How knowledge work looks from a distance
 
