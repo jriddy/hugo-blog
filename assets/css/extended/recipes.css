@@ -1,0 +1,32 @@
+.recipe-meta {
+    margin: 1rem 0 1.5rem;
+    padding: 0.75rem 1rem;
+    background: var(--entry);
+    border-radius: var(--radius);
+    font-size: 0.9rem;
+    color: var(--secondary);
+    line-height: 1.6;
+}
+
+.recipe-meta span {
+    white-space: nowrap;
+}
+
+.recipe-content h2,
+.recipe-content h3,
+.recipe-content h4 {
+    margin-top: 1.75rem;
+}
+
+.recipe-content ul,
+.recipe-content ol {
+    margin-left: 1.25rem;
+}
+
+.recipe-content li {
+    margin: 0.35rem 0;
+}
+
+.recipe-single .post-footer {
+    margin-top: 2rem;
+}
