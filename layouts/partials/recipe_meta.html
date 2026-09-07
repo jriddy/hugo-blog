@@ -1,0 +1,21 @@
+{{- $scratch := newScratch }}
+
+{{- if not .Date.IsZero -}}
+{{- $scratch.Add "meta" (slice (printf "<span title='%s'>%s</span>" (.Date) (.Date | time.Format (default "January 2, 2006" site.Params.DateFormat)))) }}
+{{- end }}
+
+{{- with .Params.activeTime -}}
+{{- $scratch.Add "meta" (slice (printf "Active: %s" .)) }}
+{{- end }}
+
+{{- with .Params.totalTime -}}
+{{- $scratch.Add "meta" (slice (printf "Total: %s" .)) }}
+{{- end }}
+
+{{- with .Params.servings -}}
+{{- $scratch.Add "meta" (slice (printf "Serves: %s" .)) }}
+{{- end }}
+
+{{- with ($scratch.Get "meta") }}
+{{- delimit . "&nbsp;·&nbsp;" | safeHTML -}}
+{{- end -}}
