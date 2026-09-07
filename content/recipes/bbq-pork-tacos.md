@@ -9,9 +9,9 @@ totalTime: "9 hours"
 servings: "32"
 ---
 
-I've never been to Mexico (I really should go!) but I am from Texas, so I've eaten a lot of Mexican food and a lot of barbecue.  This is about as good a combination of those two things as I've had.  Everyone loves it: regular Mexican food enjoyers, spice-shy Quebeckers, my autistic nephew, even one vegetarian dude I know.   It also freezes _super_ well, so you can have delicious tacos any night of the week for very little effort.
+I've never been to Mexico (I really should go!) but I am from Texas, so I've eaten a lot of Mexican food and a lot of barbecue.  This is about as good a combination of those two things as I've had.  Everyone loves it: regular Mexican food enjoyers, spice-shy Quebeckers, picky children, even one vegetarian dude I know.   It also freezes _super_ well, so you can have delicious tacos any night of the week for very little effort.
 
-I make this on a pellet smoker, but you can probably get away with using an oven and some liquid smoke.  Just be sure to lie about this when anyone asks!  You wouldn't want to limit their enjoyment by revealing this food to the be the product of such a pedestrian preparation method. Have some fun with it!  Say you dug a hole and buried the dish in banana leaves in a hole with some hot rocks and the smoldering remains of a real wood fire, just like your Abuelita taught you.  Call them racist when they question your Mexican heritage.  They don't know you!  After all, could any non-Mexican make tacos this good?
+I make this on a pellet smoker, but you can probably get away with using an oven and some liquid smoke.  Just be sure to lie about this when anyone asks!  You wouldn't want to limit their enjoyment by revealing this food to the be the product of such a pedestrian preparation method. Have some fun with it!  Say you dug a hole and buried the dish in banana leaves in it with some hot rocks and the smoldering remains of a real wood fire, just like your Abuelita taught you.  Call them racist when they question your Mexican heritage.  They don't know you!  After all, could any non-Mexican make tacos this good?
 
 ## Ingredients
 
@@ -74,7 +74,7 @@ This can also be served on rice, in a salad, or on nachos.  It's very versatile.
 
 [^CILANTRO]: Dear cilantro hater: stop being such a little bitch!  You're not special!  We all think it tastes soapy.  Most of us just like it!  It's cleansing.  Maybe you just have an especially dirty mouth.
 
-[^SALT]: Kosher salt doesn't taste special or anything—salt is salt is salt—it's just easy to both see and feel how much you're putting on something when it's bit bigger and flakier.
+[^SALT]: Kosher salt doesn't taste special or anything—salt is salt is salt—it's just easy to both see and feel how much you're putting on something when it's a bit bigger and flakier.
 
 [^MORTAR]: If you don't have a molcajete, you can grind the spices however, mince your garlic in a press or by hand, and mix the rest in a small bowl. But I highly recommend getting a molcajete!  It's a traditional Mexican mortar that makes quick work of spices and allows you to make kick-ass flavor pastes.  I use mine for sauces and marinades.  Once you have the basic technique down, it works better than a food processor for small amounts of food, and it's easier to clean.  They also look cool!
 
