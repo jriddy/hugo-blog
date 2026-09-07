@@ -1,9 +1,10 @@
 ---
-title: "I'm Still Skeptical Because You Keep Using Faith in AI to Extrapolate"
+title: "AI for Coding Still Warrants a Measured Skepticism"
 date: 2026-09-04T11:59:12-04:00
 draft: false
 aliases:
     - stop-listening-tech-exec-opinions
+    - skeptical-faith-ai-extrapolate
 ---
 
 I admit it. I took the bait. Charity Majors made an appearance on Gergely Orosz's show called ["Stop being skeptical about AI for development"](https://newsletter.pragmaticengineer.com/p/stop-being-skeptical-about-ai-for). I listened to the podcast—I don't listen to many tech podcasts—and I don't think she ever said to stop being skeptical. Not directly anyways. Great title, though. Good for engagement. "Stop being skeptical" is a phrase guaranteed to rustle any skeptic's jimmies. A whole lotta provocation, not a lotta substance. 10/10. No notes.
